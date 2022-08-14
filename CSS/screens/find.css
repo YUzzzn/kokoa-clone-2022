@@ -4,6 +4,11 @@
   border-top: var(--main-border);
   border-bottom: var(--main-border);
 }
+
+.icon-row__icon {
+  color: rgba(0, 85, 18, 0.7);
+}
+
 .recommended-friends__title {
   font-size: 14px;
   color: rgba(0, 0, 0, 0.5);
